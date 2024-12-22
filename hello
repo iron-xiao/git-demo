@@ -1,10 +1,14 @@
-hello atguigu!
+ello atguigu!
 
 hello atguigu!
 hello atguigu!
 hello atguigu!
 hello atguigu!
 hello atguigu!
-1234
+<<<<<<< HEAD
+
 
 147258
+=======
+ 123456
+>>>>>>> hot-fix
